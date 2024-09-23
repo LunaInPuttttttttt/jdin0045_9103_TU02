@@ -15,7 +15,7 @@ In order to make the visual effect of the work more vivid, the planar elements c
 ![Part2-2](readmeImages/part2-2.png)
 #### *Third stage change ↓*
 ![Part2-3](readmeImages/part2-3.png)
-#### *Sample Code ↓*
+#### *Sample Code from Amberwu ↓*
 ![Sample Code](readmeImages/samplecode.png)
 
 
